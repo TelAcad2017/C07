@@ -1,0 +1,17 @@
+[
+    {
+        "id" : "1",
+        "name" : "First Item",
+        "optional" : "false"
+    },
+    {
+        "id" : "2",
+        "name" : "Second Item",
+        "optional" : "true"
+    },
+    {
+        "id" : "3",
+        "name" : "Third Item",
+        "optional" : "false"
+    }
+]
